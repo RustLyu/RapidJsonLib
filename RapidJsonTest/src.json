@@ -1,0 +1,16 @@
+{ 
+  "bei_jing": 
+  {
+    "address": "HaiDian",
+    "car": false,
+    "cat": true,
+	"count": 10
+  },
+  "SHAANXI": 
+  {
+    "address": "XIAN",
+    "car": true,
+    "cat": true,
+	"count": 999
+  }
+}
