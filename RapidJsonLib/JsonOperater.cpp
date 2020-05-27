@@ -176,7 +176,7 @@ int JsonOperater::GetValue(char* dst, const int n, va_list ap)
 		}
 		std::string str = s.GetString();
 		memcpy(dst, str.c_str(), sizeof(str));
-		std::cout << dst << std::endl;
+		//std::cout << dst << std::endl;
 	}
 	return ret;
 }
